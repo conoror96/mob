@@ -1,0 +1,21 @@
+﻿<Properties StartupConfiguration="{B44DA22F-F989-A1EB-79EC-C2531F0E959B}|">
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="Unity.Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/ScoreScript.cs">
+    <Files>
+      <File FileName="Assets/Scripts/GoldPinball.cs" Line="7" Column="39" />
+      <File FileName="Assets/Scripts/SoundManagerScript.cs" Line="16" Column="5" />
+      <File FileName="Assets/Scripts/Pinball.cs" Line="55" Column="30" />
+      <File FileName="Assets/Scripts/Ball.cs" Line="70" Column="6" />
+      <File FileName="Assets/Scripts/GoldScript.cs" Line="27" Column="83" />
+      <File FileName="Assets/Scripts/ObstacleScript.cs" Line="24" Column="10" />
+      <File FileName="Assets/Scripts/SceneSelect.cs" Line="7" Column="32" />
+      <File FileName="Assets/Scripts/ScoreScript.cs" Line="44" Column="33" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>
